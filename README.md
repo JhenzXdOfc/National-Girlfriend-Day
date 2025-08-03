@@ -16,14 +16,6 @@ National Girlfriend Day adalah sebuah proyek web yang dirancang untuk memberikan
 - **Countdown Timer**: Hitung mundur menuju National Girlfriend Day berikutnya
 - **Tema Kustomisasi**: Berbagai pilihan warna dan tema yang dapat disesuaikan
 
-## 🚀 Demo
-
-Kunjungi demo langsung di: [Demo Link] (akan diupdate setelah deployment)
-
-## 📱 Screenshot
-
-*Screenshot akan ditambahkan setelah implementasi*
-
 ## 🛠️ Teknologi yang Digunakan
 
 - **HTML5** - Struktur halaman web
@@ -189,7 +181,6 @@ of this software and associated documentation files...
 
 **JhenzXdOfc**
 - GitHub: [@JhenzXdOfc](https://github.com/JhenzXdOfc)
-- Email: [email@example.com] (update dengan email asli)
 
 ## 🙏 Acknowledgments
 
